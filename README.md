@@ -107,20 +107,3 @@ Rscript DE_genes_automate.R cWT_vs_vWT VRN2_RNA_seq_data_AllTogether/cWT_vs_vWT_
 ## References 
 
 [1] https://www.nature.com/articles/nature10534#Sec14
-
-
-CWTvsVWT
-Cvrn2vsVvrn2
-Cprt6vsVprt6
-CDMvsVDM
-VWTvsVDM
-VWTvsVprt6
-VWTvsVvrn2
-Rscript DE_genes_automate.R cWT_vs_vWT VRN2_RNA_seq_data_AllTogether/cWT_vs_vWT_0FC.csv 
-Rscript DE_genes_automate.R cVRN2_vs_vVRN2 VRN2_RNA_seq_data_AllTogether/cVRN2_vs_vVRN2_0FC.csv 
-Rscript DE_genes_automate.R cPRT6_vs_vPRT6 VRN2_RNA_seq_data_AllTogether/cPRT6_vs_vPRT6_0FC.csv 
-Rscript DE_genes_automate.R cDM_vs_vDM VRN2_RNA_seq_data_AllTogether/cDM_vs_vDM_0FC.csv
-Rscript DE_genes_automate.R vWT_vs_vDM VRN2_RNA_seq_data_AllTogether/vWT_vs_vDM_0FC.csv 
-Rscript DE_genes_automate.R vWT_vs_vPRT6 VRN2_RNA_seq_data_AllTogether/vWT_vs_vPRT6_0FC.csv 
-Rscript DE_genes_automate.R vWT_vs_vVRN2 VRN2_RNA_seq_data_AllTogether/vWT_vs_vVRN2_0FC.csv 
-
